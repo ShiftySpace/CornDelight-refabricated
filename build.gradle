@@ -36,12 +36,12 @@ repositories {
 		}
 	}
 
-	//maven {
-	//	url = "https://jitpack.io/"
-	//	content {
-	//		includeGroup "com.github.Chocohead"
-	//	}
-	//}
+	maven {
+		url = "https://jitpack.io/"
+		content {
+			includeGroup "com.github.Chocohead"
+		}
+	}
 }
 
 loom {
