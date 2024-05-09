@@ -1,5 +1,6 @@
 package krelox.corndelight.block;
 
+import net.minecraft.item.Item;
 import com.nhoryzon.mc.farmersdelight.block.FeastBlock;
 import krelox.corndelight.CornDelight;
 import krelox.corndelight.item.CornDelightItems;
@@ -17,6 +18,8 @@ import net.minecraft.util.Hand;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
+
+import java.util.function.Supplier;
 
 public class PopcornBoxBlock extends FeastBlock {
     public PopcornBoxBlock() {
