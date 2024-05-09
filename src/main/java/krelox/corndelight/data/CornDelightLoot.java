@@ -1,6 +1,6 @@
 package krelox.corndelight.data;
 
-import vectorwing.farmersdelight.common.block.FeastBlock;
+import com.nhoryzon.mc.farmersdelight.block.FeastBlock;
 import krelox.corndelight.block.CornDelightBlocks;
 import krelox.corndelight.item.CornDelightItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
